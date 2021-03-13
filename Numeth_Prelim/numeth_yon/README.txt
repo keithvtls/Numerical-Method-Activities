@@ -1,0 +1,1 @@
+Module that contains function in getting roots of an equation.
